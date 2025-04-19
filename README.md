@@ -1,4 +1,5 @@
-Marketing Campaign Optimization Using Sentiment Analysis and Machine Learning
+# Marketing Campaign Optimization Using Sentiment Analysis and Machine Learning
+
 This project aims to optimize marketing campaign performance by combining structured campaign data with unstructured customer feedback. It uses sentiment analysis to extract insights from customer feedback and applies machine learning to predict Return on Investment (ROI). The goal is to help marketing teams make data-driven decisions and improve future campaigns.
 
 Features
