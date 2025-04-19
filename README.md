@@ -51,4 +51,4 @@ Project Status
 This is a completed mini project built for learning and showcasing how machine learning and NLP can be applied in marketing analysis. Future improvements may include real-time feedback integration and web app deployment.
 
 License
-This project is open-source and available under the MIT License.
+This project is open-source 
